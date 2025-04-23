@@ -1,0 +1,14 @@
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\TrapezoidMethod\TrapezoidMethodIntegration\obj\Debug\net8.0\TrapezoidMethodIntegration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\TrapezoidMethod\TrapezoidMethodIntegration\obj\Debug\net8.0\TrapezoidMethodIntegration.AssemblyInfoInputs.cache
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\TrapezoidMethod\TrapezoidMethodIntegration\obj\Debug\net8.0\TrapezoidMethodIntegration.AssemblyInfo.cs
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\TrapezoidMethod\TrapezoidMethodIntegration\obj\Debug\net8.0\TrapezoidMethodIntegration.csproj.CoreCompileInputs.cache
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\TrapezoidMethod\TrapezoidMethodIntegration\bin\Debug\net8.0\TrapezoidMethodIntegration.exe
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\TrapezoidMethod\TrapezoidMethodIntegration\bin\Debug\net8.0\TrapezoidMethodIntegration.deps.json
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\TrapezoidMethod\TrapezoidMethodIntegration\bin\Debug\net8.0\TrapezoidMethodIntegration.runtimeconfig.json
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\TrapezoidMethod\TrapezoidMethodIntegration\bin\Debug\net8.0\TrapezoidMethodIntegration.dll
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\TrapezoidMethod\TrapezoidMethodIntegration\bin\Debug\net8.0\TrapezoidMethodIntegration.pdb
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\TrapezoidMethod\TrapezoidMethodIntegration\obj\Debug\net8.0\TrapezoidMethodIntegration.dll
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\TrapezoidMethod\TrapezoidMethodIntegration\obj\Debug\net8.0\refint\TrapezoidMethodIntegration.dll
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\TrapezoidMethod\TrapezoidMethodIntegration\obj\Debug\net8.0\TrapezoidMethodIntegration.pdb
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\TrapezoidMethod\TrapezoidMethodIntegration\obj\Debug\net8.0\TrapezoidMethodIntegration.genruntimeconfig.cache
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\TrapezoidMethod\TrapezoidMethodIntegration\obj\Debug\net8.0\ref\TrapezoidMethodIntegration.dll
