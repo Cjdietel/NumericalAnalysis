@@ -1,0 +1,14 @@
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\SimpsonsRuleIntegration\SimpsonsRuleIntegration\bin\Debug\net8.0\SimpsonsRuleIntegration.exe
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\SimpsonsRuleIntegration\SimpsonsRuleIntegration\bin\Debug\net8.0\SimpsonsRuleIntegration.deps.json
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\SimpsonsRuleIntegration\SimpsonsRuleIntegration\bin\Debug\net8.0\SimpsonsRuleIntegration.runtimeconfig.json
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\SimpsonsRuleIntegration\SimpsonsRuleIntegration\bin\Debug\net8.0\SimpsonsRuleIntegration.dll
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\SimpsonsRuleIntegration\SimpsonsRuleIntegration\bin\Debug\net8.0\SimpsonsRuleIntegration.pdb
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\SimpsonsRuleIntegration\SimpsonsRuleIntegration\obj\Debug\net8.0\SimpsonsRuleIntegration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\SimpsonsRuleIntegration\SimpsonsRuleIntegration\obj\Debug\net8.0\SimpsonsRuleIntegration.AssemblyInfoInputs.cache
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\SimpsonsRuleIntegration\SimpsonsRuleIntegration\obj\Debug\net8.0\SimpsonsRuleIntegration.AssemblyInfo.cs
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\SimpsonsRuleIntegration\SimpsonsRuleIntegration\obj\Debug\net8.0\SimpsonsRuleIntegration.csproj.CoreCompileInputs.cache
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\SimpsonsRuleIntegration\SimpsonsRuleIntegration\obj\Debug\net8.0\SimpsonsRuleIntegration.dll
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\SimpsonsRuleIntegration\SimpsonsRuleIntegration\obj\Debug\net8.0\refint\SimpsonsRuleIntegration.dll
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\SimpsonsRuleIntegration\SimpsonsRuleIntegration\obj\Debug\net8.0\SimpsonsRuleIntegration.pdb
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\SimpsonsRuleIntegration\SimpsonsRuleIntegration\obj\Debug\net8.0\SimpsonsRuleIntegration.genruntimeconfig.cache
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\SimpsonsRuleIntegration\SimpsonsRuleIntegration\obj\Debug\net8.0\ref\SimpsonsRuleIntegration.dll
