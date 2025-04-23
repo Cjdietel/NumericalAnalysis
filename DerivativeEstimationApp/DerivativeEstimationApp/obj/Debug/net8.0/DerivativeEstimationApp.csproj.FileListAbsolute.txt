@@ -1,0 +1,14 @@
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\DerivativeEstimationApp\DerivativeEstimationApp\bin\Debug\net8.0\DerivativeEstimationApp.exe
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\DerivativeEstimationApp\DerivativeEstimationApp\bin\Debug\net8.0\DerivativeEstimationApp.deps.json
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\DerivativeEstimationApp\DerivativeEstimationApp\bin\Debug\net8.0\DerivativeEstimationApp.runtimeconfig.json
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\DerivativeEstimationApp\DerivativeEstimationApp\bin\Debug\net8.0\DerivativeEstimationApp.dll
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\DerivativeEstimationApp\DerivativeEstimationApp\bin\Debug\net8.0\DerivativeEstimationApp.pdb
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\DerivativeEstimationApp\DerivativeEstimationApp\obj\Debug\net8.0\DerivativeEstimationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\DerivativeEstimationApp\DerivativeEstimationApp\obj\Debug\net8.0\DerivativeEstimationApp.AssemblyInfoInputs.cache
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\DerivativeEstimationApp\DerivativeEstimationApp\obj\Debug\net8.0\DerivativeEstimationApp.AssemblyInfo.cs
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\DerivativeEstimationApp\DerivativeEstimationApp\obj\Debug\net8.0\DerivativeEstimationApp.csproj.CoreCompileInputs.cache
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\DerivativeEstimationApp\DerivativeEstimationApp\obj\Debug\net8.0\DerivativeEstimationApp.dll
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\DerivativeEstimationApp\DerivativeEstimationApp\obj\Debug\net8.0\refint\DerivativeEstimationApp.dll
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\DerivativeEstimationApp\DerivativeEstimationApp\obj\Debug\net8.0\DerivativeEstimationApp.pdb
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\DerivativeEstimationApp\DerivativeEstimationApp\obj\Debug\net8.0\DerivativeEstimationApp.genruntimeconfig.cache
+C:\Users\cjdie\Downloads\Numerical-Analysis-Student-Ready-main\Numerical-Analysis-Student-Ready-main\DerivativeEstimationApp\DerivativeEstimationApp\obj\Debug\net8.0\ref\DerivativeEstimationApp.dll
